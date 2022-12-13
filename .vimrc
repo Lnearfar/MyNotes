@@ -1,3 +1,19 @@
+"This is Ljy's vimrc
+"A student from BIT(Beijing Institude of Technology)
+"I enjoy everything that I'm doing
+"
+"QQmail: 1161871240@qq.com
+"Wechat: li116871240
+"Gmail: nearfar1jy@gmail.com
+"Github: https://github.com/Lnearfar
+"
+"vim is a very powerful editor
+"The reason why I choose vim because my vscode in the virtual machine is so
+"slow and only vim can be used by me smoothly. However, after using vim, I
+"cant turn back to vscode because of it's convenience. One of the best hackers
+"just use the basic funtion of vim to code and work, it's impressive and
+"remind me that the most important thing is what to code, or algorithm. 
+"
 syntax on
 set encoding=utf-8
 set number
